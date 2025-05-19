@@ -1,0 +1,27 @@
+# Soubory virtuálního prostředí
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+# Soubory virtuálního prostředí
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# makroseis2025.xlsx
+
+
+# analyza_vysledky_2025/
+
+
